@@ -1,0 +1,12 @@
+.list-input {
+  display: flex;
+  align-content: center;
+  height: 30px;
+}
+button {
+  color:white;
+  background-color: darkgray;
+}
+input {
+  width: 300px;
+}
